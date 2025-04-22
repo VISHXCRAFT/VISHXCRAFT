@@ -21,7 +21,7 @@
   -   Email:    imvish.g7@gmail.com
   -   LinkedIn: linkedin.com/in/vishwas-gos7
   -   GitHub:   github.com/VISHXCRAFT
-  -   Tableau:  [Vishwas Goswami Tableau](url)
+  -   Tableau:  https://public.tableau.com/app/profile/vishwas.goswami3045/vizzes
     
 
 - ⚡ Fun fact:
